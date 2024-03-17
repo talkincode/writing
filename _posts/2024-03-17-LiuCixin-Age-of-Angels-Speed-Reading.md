@@ -77,7 +77,6 @@ categories: 刘慈欣 天使时代
 
 在林肯号的飞行甲板上，士兵们仰望着星条旗，他们的目光坚毅，战争孕育的阴霾在他们心中积聚，准备在命令一声响起时化作毁灭性的力量。这场东征，是否标志着文明对抗飞翔的天使，一个时代将落幕，另一个时代是否将于风中凛然崛起，一切尚未可知。
 
-
 ## 攻击计划
 
 ![72HiXM](https://raw.githubusercontent.com/jamiesun/images/master/default/72HiXM.jpg)
