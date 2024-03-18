@@ -14,6 +14,8 @@ image: https://raw.githubusercontent.com/jamiesun/images/master/default/sN9PjW.j
 
 ## 《天使时代》的科幻世界建构
 
+![U2Us7a](https://raw.githubusercontent.com/jamiesun/images/master/default/U2Us7a.jpg)
+
 ### 基因改造与人类进化
 
 改造基因，可以说是人类试图跨越进化的藩篱，追求适应性、健康、甚至美学上的完美化。在刘慈欣笔下，这一行为却不再仅限于改善生物性状，而是更深层地触动了人性的“个体”概念。这些被重新编程的人类基因，是否仍保持着人之为人的精髓？当科学技术为人类带来前所未有的物理形态与能力之际，我们应如何界定和认识这种新的“人类”形态？
