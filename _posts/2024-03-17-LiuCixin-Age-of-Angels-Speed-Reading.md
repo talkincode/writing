@@ -3,11 +3,11 @@ layout: post
 title: "天使时代：刘慈欣科幻神作速读"
 date: 2024-03-17 20:26:28 +0800
 categories: 刘慈欣 天使时代
+tags: 科幻 刘慈欣 天使时代
+image: https://raw.githubusercontent.com/jamiesun/images/master/default/1AIcgE.jpg
 ---
 
 ## 序曲
-
-![序曲](https://raw.githubusercontent.com/jamiesun/images/master/default/1AIcgE.jpg)
 
 辽阔的非洲大地，在夜色的笼罩下，酝酿着风暴前的宁静。工程精密、结构庞大的三个航空母舰战斗群，如同大西洋上一盘威严棋局的沉默棋子，渐行渐近，潮汐般地向非洲沿海聚集，末日的号角似乎已经在不远处静静吹响。
 
