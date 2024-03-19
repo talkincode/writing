@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "微型电网革命：数百万人口的清洁能源利好"
+title:  "【TED】微型电网革命：数百万人口的清洁能源利好"
 date:   2024-03-19 10:35:10 +0800
 categories: clean-energy microgrid renewable
+tags: ted clean-energy microgrid renewable
 image: https://raw.githubusercontent.com/jamiesun/images/master/default/FwvaB6.png
 ---
 
