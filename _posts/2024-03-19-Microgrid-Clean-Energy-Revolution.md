@@ -3,9 +3,8 @@ layout: post
 title:  "微型电网革命：数百万人口的清洁能源利好"
 date:   2024-03-19 10:35:10 +0800
 categories: clean-energy microgrid renewable
-filename: 2024-03-19-Microgrid-Clean-Energy-Revolution
+image: https://raw.githubusercontent.com/jamiesun/images/master/default/FwvaB6.png
 ---
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngk7VVyveu8?si=m_A5K4oo0SNRZOum" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
